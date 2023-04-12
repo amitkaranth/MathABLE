@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">MathABLE</string>
+    <string name="Text1">  1  </string>
+    <string name="Text2">  2  </string>
+    <string name="Text3">  3  </string>
+    <string name="Text4">  4  </string>
+    <string name="Text5">  5  </string>
+    <string name="Text6">  6  </string>
+    <string name="Text7">  7  </string>
+    <string name="Text8">  8  </string>
+    <string name="Text9">  9  </string>
+    <string name="Text10">  10  </string>
+    <string name="target">  Drop here!!  </string>
+    <string name="heading">Drop Numbers in order!!</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_shape3d">Shape3dActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+</resources>
